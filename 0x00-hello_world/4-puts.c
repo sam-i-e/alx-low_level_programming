@@ -4,8 +4,7 @@
 
     *
  
-     * Return: Always 0 (Success)
- 
+     * RETURN: Always 0 (Success)
  
       */
 
