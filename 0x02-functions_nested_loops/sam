@@ -2,6 +2,8 @@
 
 git status
 
+git add .
+
 quotation='"'
 
 echo "Please type in your commit message below Sam"
