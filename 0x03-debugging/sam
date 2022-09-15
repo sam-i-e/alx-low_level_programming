@@ -9,7 +9,7 @@ quotation='"'
 echo "Type your commit message below, Sam"
 read commit
 
-git commit -m $quotation"$commit"quotation
+git commit -m $quotation"$commit"$quotation
 
 git push
 
